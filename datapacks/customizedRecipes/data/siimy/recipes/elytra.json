@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aba",
+        "aca",
+        "ada"
+    ],
+    "key":{
+        "a": {
+            "item":"minecraft:phantom_membrane"
+        },
+        "b": {
+            "item":"minecraft:dragon_breath"
+        },
+        "c": {
+            "item":"minecraft:ender_eye"
+        },
+        "d": {
+            "item":"minecraft:ghast_tear"
+        }
+    },
+	"result": {
+		"item": "minecraft:elytra",
+		"count": 1
+	}
+}

@@ -1,0 +1,28 @@
+{
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-05-16 13:32:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-05-16 13:32:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2021-05-16 13:32:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2021-05-16 13:32:29 +0800",
+      "minecraft:plains": "2021-05-16 13:29:41 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

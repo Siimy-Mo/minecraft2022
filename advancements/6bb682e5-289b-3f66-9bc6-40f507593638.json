@@ -1,0 +1,22 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-02-16 18:39:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-02-16 18:39:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2021-02-16 18:39:02 +0800",
+      "minecraft:plains": "2021-02-16 18:38:01 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
